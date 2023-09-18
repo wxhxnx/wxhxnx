@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @wxhxnx ✨ ✨ ✨
-- 👀 I’m currently learning JavaScript
+👋 Hi, I’m @wxhxnx ✨ ✨ ✨
+👀 I’m currently learning JavaScript!
